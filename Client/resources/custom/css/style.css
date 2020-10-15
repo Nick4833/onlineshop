@@ -1,0 +1,8 @@
+body {
+	font-family: Roboto;
+}
+
+.card-custom {
+	border: none; 
+	box-shadow: none;
+}
